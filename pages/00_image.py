@@ -1,0 +1,2 @@
+import stramlit as st
+st.image("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVubDA3dmtud3NhY3phMmNyajB2ZzhkeWdreHMzN3V1ZmNhbm5tbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhw8tDeF0nYbiqhPZ4/giphy.gif")
